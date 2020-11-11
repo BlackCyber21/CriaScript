@@ -29,14 +29,14 @@ letras como n geradas pelo figlet possuem aspa substitua por espaço...
 
 #!/bin/bash
 echo '
-                 _____           _        
-                |_   _|___  ___ | |_  ___ 
-                  | | / _ \/ __|| __|/ _ \
-                  | ||  __/\__ \| |_|  __/
-                  |_| \___||___/ \__|\___(
-
-            	Version 1.1    Author @BlackCyber
-     https://github.com/BlackCyber21/
+#                 _____           _        
+#                |_   _|___  ___ | |_  ___ 
+#                  | | / _ \/ __|| __|/ _ \
+#                  | ||  __/\__ \| |_|  __/
+#                  |_| \___||___/ \__|\___(
+#
+#            	Version 1.1    Author @BlackCyber
+#     https://github.com/BlackCyber21/
 '
 ----------------------------------------------------------------------
 		    Fazendo updatedb para o locate
