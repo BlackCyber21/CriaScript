@@ -16,7 +16,7 @@
 			         https://github.com/BlackCyber21/
 
 ----------------------------------------------------------------------
-		 Modo de uso: ./CriaScript.sh nomedoscript.sh
+		    Modo de uso: ./CriaScript.sh nomedoscript.sh
 ----------------------------------------------------------------------
 
 ./CriaScript.sh Teste.sh
