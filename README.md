@@ -13,7 +13,7 @@
 		 \____||_|   |_| \__,_||____/  \___||_|   |_|| .__/  \__(
 		                                             |_|
             		Version 1.1    Author @BlackCyber
-			      https://github.com/BlackCyber21/
+			         https://github.com/BlackCyber21/
 
 ----------------------------------------------------------------------
 		 Modo de uso: ./CriaScript.sh nomedoscript.sh
