@@ -1,6 +1,7 @@
 # CriaScript
 
-# mkdir CriaScript/OUT
+# cd CriaScript/
+# mkdir OUT
 # chmod 777 -R OUT
 
 ./CriaScript.sh 
